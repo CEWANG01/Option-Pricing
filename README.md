@@ -27,7 +27,7 @@ Running lsmc_american.py produces six pairs of numbers:
    
 The regressors in 1 and 3 are wrong choices. 1 and 3 are demonstrations that they are not producing correct estimates.
 
-###Usage
+### Usage
 
 At the beginning of the code, set up option parameters. Input the prices of corresponding call and european put options,
 
